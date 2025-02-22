@@ -6,6 +6,7 @@ namespace BusinessEntities
 {
     public class User : IdObject
     {
+        //Test Comment
         private readonly List<string> _tags = new List<string>();
         private int _age;
         private string _email;

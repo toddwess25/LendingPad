@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Zz4hJXOfFM92U1CJMWgWUlOK9hmwxrOK+my+B1YDwzJIHt7Y5VLUssniwGrDdiV70ErQ7tQI6+JoOFWJCkaDXQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\toddw\\OneDrive\\Documents\\GitHub\\LendingPad\\SampleProject\\BusinessEntities\\BusinessEntities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\toddw\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\toddw\\.nuget\\packages\\microsoft.netcore.targets\\1.0.1\\microsoft.netcore.targets.1.0.1.nupkg.sha512",
+    "C:\\Users\\toddw\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\toddw\\.nuget\\packages\\simpleinjector\\4.0.8\\simpleinjector.4.0.8.nupkg.sha512",
+    "C:\\Users\\toddw\\.nuget\\packages\\system.componentmodel\\4.0.1\\system.componentmodel.4.0.1.nupkg.sha512",
+    "C:\\Users\\toddw\\.nuget\\packages\\system.runtime\\4.1.0\\system.runtime.4.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
